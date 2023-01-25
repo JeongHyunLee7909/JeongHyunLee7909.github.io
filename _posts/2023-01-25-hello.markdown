@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "First post"
+date:   2023-01-25
+categories: C++ Python
+---
+
+```bash
+git reset --hard
+```
+
+hello
+
+### Hello
+
+hello
