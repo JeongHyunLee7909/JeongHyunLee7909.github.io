@@ -1,8 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+title: CV
+nav: false
+# nav_order: 4
+# nav: false
+cv_pdf: cv_namyup_Nov22.pdf
 ---
