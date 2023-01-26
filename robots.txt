@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/al-folio/sitemap.xml
+Sitemap: https://JeongHyunLee7909.github.io/sitemap.xml
